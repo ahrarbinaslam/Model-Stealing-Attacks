@@ -12,7 +12,7 @@ We primarily used a modified ResNet18 architecture and trained it using a combin
 
 To try it out:
 1. Clone this repository.
-2. Launch the notebook `Model Stealing TML25_A2_16.ipynb` in Google Colab.
-3. Make sure to insert your `TOKEN`, `SEED`, and `PORT` if changed.
+2. Launch the notebook Model Stealing TML25_A2_16.ipynb in Google Colab.
+3. Make sure to insert the correct TOKEN, SEED, and PORT.
 
 > Full pipeline runs in ~15 minutes on Colab’s free GPU.
