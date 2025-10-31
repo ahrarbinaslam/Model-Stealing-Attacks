@@ -1,8 +1,6 @@
-# TML25_A2_16
-
 # Model Stealing Attack
 
-# Implemented By:
+Implemented By:
 Ahrar Bin Aslam and Muhammad Mubeen Siddiqui
 
 This repository contains our implementation for a model stealing attack as part of the TML course (Assignment 2). The goal was to replicate the functionality of a black-box encoder exposed via an API and protected using B4B noising. We approached this by querying the API with images from a known dataset and training our own encoder to match the returned embeddings.
